@@ -1,2 +1,2 @@
 # OptimismCoach
- A wellness coach built on Llama2-70B
+ A wellness coach chatbot built on Llama 2-70B
